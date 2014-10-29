@@ -1,2 +1,1 @@
-teacjing-IA-maths
-=================
+# IPython notebooks to support IA maths teaching
