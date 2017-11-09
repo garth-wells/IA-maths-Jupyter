@@ -15,7 +15,7 @@ http://nbviewer.jupyter.org/github/garth-wells/IA-maths-Jupyter/
 Copies of these notebooks are posted to the Microsoft Azure cloud
 service:
 
-https://notebooks.azure.com/library/CUED-PartIA-maths
+https://notebooks.azure.com/garth-wells/libraries/CUED-PartIA-maths
 
 
 # Feedback and corrections
